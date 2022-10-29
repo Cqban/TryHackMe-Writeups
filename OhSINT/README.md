@@ -20,7 +20,7 @@ We can see that OWoodflint has three profiles by googling him : [Twitter](https:
 Now that our basic hunting is over, we can answering questions.
 
 **<u>What is this users avatar of?</u>**
-Let's have a look at their Twitter. It's obviously a racoon. 🦝
+Let's have a look at their Twitter.
 ![OhSINT](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v22gk4xxlifd6vh9a3ri.png)
 ![OhSINT](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g0nr8qgzegw69cd0k410.png)
  
